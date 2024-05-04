@@ -1,0 +1,22 @@
+
+form{
+    font-size: tahoma;
+    font: 1em sans-serif;
+    width: 400px;
+    height: 300px;
+    margin-left: 690px;
+margin-top: 260px;
+text-align:center;
+
+
+}
+body{
+background-image:url(/background-blue-whitegradient.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
+h6:hover{
+@import url();
+}
